@@ -24,10 +24,6 @@ Northwestern University M.S. in Data Science (Data Engineering specialization): 
 - **Metaheuristic (simulated annealing sketch):** Metropolis acceptance criterion with cooling schedule over knapsack objective
 - **Markov chains / stochastic matrices:** build country adjacency graph for South America; derive row-stochastic transition matrix from equal neighbor probabilities; propagate initial state (spy last seen in Chile) via matrix powers; visualize with NetworkX and pandas Styler heatmaps (`How to Track a Spy with Markov Chains and Stochastic Matrices .ipynb`)
 
-**Course syllabus topics not represented in committed artifacts:** goal programming, multi-objective optimization, nonlinear programming, queuing models, decision trees, Markov decision processes
-
-**Out of scope for this repo:** deployed analytics applications (see **Analytics-Applications-Engineering**); statistical inference coursework (see **Statistics**); pure ML algorithms (see **Machine-Learning**); production ETL (see **Data-Miners**).
-
 ---
 
 ## 3. Stack
