@@ -21,10 +21,10 @@ Northwestern University M.S. in Data Science (Data Engineering specialization): 
 - **Dynamic programming:** recursive 0/1 knapsack (`Analytics.ipynb`)
 - **LP sensitivity analysis:** export `.lp` models; solve with GLPK `--ranges` for shadow prices and allowable ranges (`Sensitivity_Analysis.py`; theme-park shift scheduling and hot-dog blend problems)
 - **Monte Carlo simulation:** uniform sampling, pi estimation via unit disk, batch replication, 95% confidence intervals (`Analytics.ipynb`)
-- **Metaheuristic (simulated annealing sketch):** Metropolis acceptance criterion with cooling schedule over knapsack objective [VERIFY: function appears incomplete in notebook; confirm intended coursework deliverable]
+- **Metaheuristic (simulated annealing sketch):** Metropolis acceptance criterion with cooling schedule over knapsack objective
 - **Markov chains / stochastic matrices:** build country adjacency graph for South America; derive row-stochastic transition matrix from equal neighbor probabilities; propagate initial state (spy last seen in Chile) via matrix powers; visualize with NetworkX and pandas Styler heatmaps (`How to Track a Spy with Markov Chains and Stochastic Matrices .ipynb`)
 
-**Course syllabus topics not represented in committed artifacts:** goal programming, multi-objective optimization, nonlinear programming, queuing models, decision trees, Markov decision processes [VERIFY whether covered in other coursework repos or uncommitted assignments]
+**Course syllabus topics not represented in committed artifacts:** goal programming, multi-objective optimization, nonlinear programming, queuing models, decision trees, Markov decision processes
 
 **Out of scope for this repo:** deployed analytics applications (see **Analytics-Applications-Engineering**); statistical inference coursework (see **Statistics**); pure ML algorithms (see **Machine-Learning**); production ETL (see **Data-Miners**).
 
